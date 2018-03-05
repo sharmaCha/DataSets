@@ -1,0 +1,11 @@
+Member_ID,First_Name,Last_Name,Gender,Age,Height,Weight,Hours_Sleep,Calories_Consumed,Exercise_Calories_Burned,TIMESTAMP
+206845,Marcin,Matczak,M,70,"5,6",195,9,3560,544,2008-11-01 00:00:00
+206845,Marcin,Matczak,M,70,"5,6",195,6,1945,670,2008-11-01 00:00:00
+206845,Marcin,Matczak,M,70,"5,6",195,7,1982,674,2008-11-01 00:00:00
+206845,Marcin,Matczak,M,70,"5,6",198,7,2119,626,2008-11-01 00:00:00
+206845,Marcin,Matczak,M,70,"5,6",195,5,2429,791,2008-11-01 00:00:00
+206845,Marcin,Matczak,M,70,"5,6",195,9,2260,923,2008-11-01 00:00:00
+206845,Marcin,Matczak,M,70,"5,6",192,7,1617,509,2008-11-01 00:00:00
+206845,Marcin,Matczak,M,70,"5,6",195,7,2024,670,2008-11-01 00:00:00
+206845,Marcin,Matczak,M,70,"5,6",195,6,2538,441,2008-11-01 00:00:00
+206845,Marcin,Matczak,M,70,"5,6",195,7,1871,615,2008-11-01 00:00:00
